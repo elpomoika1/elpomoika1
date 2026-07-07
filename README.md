@@ -2,7 +2,7 @@
 
 Backend Developer • Java • Go
 
-Building performant backend services, game server software
+Building performant backend services, game server software and pentesting
 
 ## ⚡ Tech Stack
 
