@@ -1,6 +1,6 @@
 # YO👋
 
-Backend Developer • Java • Go
+Backend Developer/Mostly Reverse Engeneering • Java • Go
 
 Building performant backend services, game server software and pentesting
 
